@@ -3,3 +3,4 @@
 * The app allows users to sign up and log in with their credentials. Besides, users are able to upload profile picture, edit personal information, make post and comment on others' posts. There is also a notification button provides updated info for users.
 * The back-end side is in different repo.
 * Here is the app link: https://socialapp-bf975.firebaseapp.com/
+(If there is any problem with the link, please try to refresh or close the tab and click the link again)
